@@ -10,6 +10,7 @@ import org.springframework.web.client.RestTemplate;
 
 import com.fatec.scel.model.Product;
 
+//O consumidor implementou dois metodos para obter o servico da api
 @Service
 public class ProductService {
 
